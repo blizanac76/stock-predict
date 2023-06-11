@@ -15,7 +15,7 @@ open = table2array(bitkojn(1:end, 3));
 low = table2array(bitkojn(1:end, 4));
 high = table2array(bitkojn(1:end, 5));
 
-test = 2
+test = 3
 
 
 
